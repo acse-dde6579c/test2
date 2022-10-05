@@ -45,4 +45,4 @@ Assessment will be 100% by coursework. Coursework will be distributed and submit
 |Release Date  | Due Date            | Topic                             |
 |--------------|---------------------|-----------------------------------|
 |2022-10-12 Wed, 12:00 | 2022-10-14 16:00 Fri| Pandas                    |
-|2022-10-19 Wed, 12:00 | 2022-10-21 16:00 Fri| Cellular automata package |
+|2022-10-19 Wed, 12:00 | 2022-10-21 16:00 Fri| Numerical package development |
